@@ -20,7 +20,7 @@ Deployed Windows Server 2022 in Azure and configured Active Directory, DNS, and 
 Set up Windows Server Update Services (WSUS) in Azure to centrally manage Microsoft updates. Configured synchronization, computer groups, and tested client deployment.
 
 ## 🎯 Career Goals
-I'm looking for an entry-level IT support or help desk role where I can:
+I'm looking for an IT support or Admin role where I can:
 - Help users solve technical problems
 - Learn from experienced IT professionals
 - Grow my skills in system administration
