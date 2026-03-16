@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🎓 About Me
-I'm an IT student passionate about technology and solving problems. I'm building hands-on projects to prepare for a career in IT support and system administration.
+I'm an IT/Cybersecurity student passionate about technology and solving problems. I'm building hands-on projects to prepare for a career in IT support and system administration.
 
 ## 🛠️ Skills I'm Developing
 - **Microsoft Azure** - Virtual machines, networking, cloud services
