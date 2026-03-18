@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Camila
 
 # 🎓 About Me
 I'm an IT/Cybersecurity student passionate about technology and solving problems. I'm building hands-on projects to prepare for a career in IT support and system administration.
